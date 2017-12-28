@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tab In Fragment</string>
+    <string name="tab_words">Words</string>
+    <string name="tab_numbers">Numbers</string>
+</resources>
